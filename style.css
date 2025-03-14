@@ -342,7 +342,8 @@ header {
   padding: 0;
 }
 .footer-contact-info a {
-  text-decoration: #2584ff;
+  color: blue;
+  text-decoration: underline;
 }
 
 .footer-contact-info > h5 {
