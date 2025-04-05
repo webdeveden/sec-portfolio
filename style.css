@@ -83,6 +83,7 @@ h6 {
 .nav__toggler {
   opacity: 0.5;
   cursor: pointer;
+  fill: var(--btn-background-color);
   transition: box-shadow 0.15s;
 }
 
