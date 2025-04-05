@@ -83,7 +83,6 @@ h6 {
 .nav__toggler {
   opacity: 0.5;
   cursor: pointer;
-  fill: var(--color-secondary);
   transition: box-shadow 0.15s;
 }
 
@@ -141,7 +140,7 @@ h6 {
 }
 
 .icon--white {
-  fill: rgb(114, 112, 112);
+  fill: var(--color-secondary);
 }
 .icon--primary {
   fill: var(--color-secondary);
