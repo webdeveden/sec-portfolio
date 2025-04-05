@@ -329,7 +329,13 @@ h6 {
     grid-row: 1 / -1;
   }
 }
+/* js */
 
+.outsider {
+  outline: 0;
+  border: 1px solid rgb(246, 219, 138);
+  box-shadow: 0 0 5px 3px rgba(218, 190, 106, 0.75);
+}
 /*Form and input */
 .input-group {
   padding: 2rem 0;
