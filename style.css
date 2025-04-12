@@ -418,4 +418,10 @@ h6 {
     transform: translate(0, 0) !important;
     transition: none !important;
   }
+  .section__two__image {
+    order: 1;
+  }
+  .section__two__text {
+    order: 0;
+  }
 }
