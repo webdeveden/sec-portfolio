@@ -280,6 +280,11 @@ h6 {
   padding: 2rem;
 }
 
+.experience__list li,
+.experience__list li a {
+  color: var(--color-secondary);
+}
+
 .hero__box {
   text-align: center;
 }
