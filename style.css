@@ -429,4 +429,9 @@ h6 {
   .section__two__text {
     order: 0;
   }
+
+  .hero__heading {
+    font-size: 4rem;
+    line-height: 1.2;
+  }
 }
